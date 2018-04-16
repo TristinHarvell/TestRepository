@@ -1,4 +1,4 @@
-/*
+/* TRISTIN HARVELL
  *
  *  * The MIT License
  *  *
